@@ -11,7 +11,7 @@
     <title>Jumbotron Template for Bootstrap</title>
 
 
-    <!-- Custom styles for this template -->
+    <!-- Custom styles for template -->
     <link href="jumbotron.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from UAT branch. </p>
+        <p>This is from UAT/DEV branch. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
