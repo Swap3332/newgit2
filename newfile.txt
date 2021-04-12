@@ -1,5 +1,4 @@
-This is TestEnivronment file
-This is Devopsenvironment file
+This is Devopss file
 sample file devopss file
 sample file devopss file
 
