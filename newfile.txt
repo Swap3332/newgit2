@@ -1,4 +1,4 @@
-This is LocalDevEnivron file
+This is Remote DevEnivron file
 This is Devopsenvironment file
 sample file devopss file
 sample file devopss file
